@@ -1,0 +1,15 @@
+read documentation
+Show My List
+i am tiered
+List slicing in action
+Write a function
+ONLY second row
+buy a car
+add Tim phone number
+completed
+add my planed tasks
+now it's not empty
+Test functions call
+add my personality
+
+Not an empty row again
