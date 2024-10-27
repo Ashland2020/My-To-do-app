@@ -1,10 +1,7 @@
-read documentation
 Show My List
-i am tiered
-List slicing in action
+Wake up ontimeList slicing in action
 Write a function
-ONLY second row
-buy a car
+Working hard is the way to prosperitybuy a car
 add Tim phone number
 completed
 add my planed tasks
@@ -14,3 +11,5 @@ add my personality
 Not an empty row again
 Add SOMETHING
 I am from GUI
+Show My List and check if this is correct
+
